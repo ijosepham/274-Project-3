@@ -1,5 +1,7 @@
 /**
- * this class represents a contact inside a phonebook
+ * @author joey pham
+ * @date 16 October 2018
+ * @description this class represents a contact inside a phonebook
  */
 public class Contact {
 

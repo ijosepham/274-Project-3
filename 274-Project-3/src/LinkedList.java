@@ -1,5 +1,7 @@
 /**
- * this class represents a list full of contacts and their personal information
+ * @author joey pham
+ * @date 16 October 2018
+ * @description this class represents a list full of contacts and their personal information
  */
 
 public class LinkedList {
